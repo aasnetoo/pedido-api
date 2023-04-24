@@ -1,4 +1,4 @@
-package com.example.pedidoapi.controller;
+package com.example.pedidoapi.controller.handler;
 
 import com.example.pedidoapi.dto.PedidoRequest;
 import com.example.pedidoapi.dto.PedidoResponse;
