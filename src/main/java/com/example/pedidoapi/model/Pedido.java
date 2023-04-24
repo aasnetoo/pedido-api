@@ -10,7 +10,7 @@ public record Pedido(String id,
                      Status status,
                      BigDecimal total) {
     public static record Item(
-            String id,
+            String idProduto,
             int quantidade
     ){
 
